@@ -11,4 +11,20 @@ entries:
     urls:
     - https://github.com/infn-datacloud/helm-charts/releases/download/interlink-0.1.0/interlink-0.1.0.tgz
     version: 0.1.0
-generated: "2024-09-15T07:06:05.441680046Z"
+  jupyterhub:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2025-03-28T11:54:24.127452705Z"
+    description: A Helm chart for the deployment of multi-user JupyterHUB
+    digest: c2dc6aa66b7cb5334e90ce1c4f4c12b931ff792ae593fc2702d41942875dd6a2
+    home: https://github.com/infn-datacloud/helm-charts/charts/jupyterhub/
+    icon: https://xrootd.slac.stanford.edu/images/jupyterhub.png
+    maintainers:
+    - email: verlato@infn.it
+      name: marcoverl
+    name: jupyterhub
+    type: application
+    urls:
+    - https://github.com/infn-datacloud/helm-charts/releases/download/jupyterhub-1.0.0/jupyterhub-1.0.0.tgz
+    version: 1.0.0
+generated: "2025-03-28T11:54:24.127465709Z"
